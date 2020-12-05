@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>UFC</title>
+</head>
+<body style="background-color:white ;height: 4000px;">
+       <div class="rectangle">
+       	<a href="index.html"><b><h1 style="font-family: lucida bright;margin-left:900px;padding-top: 20px;margin-bottom: -50px;color: white;">UFC</h1></b></a>
+       	<a href="jorik.html"><h3 style="font-family: candara;margin-left:150px;margin-bottom: -40px;color: white;">EVENTS</h3></a>
+       		<a href="adesanya.html"><h3 style="font-family: candara;margin-left: 500px;margin-bottom: -40px;color: white;">FIGHTERS</h3></a>
+       			<a href="whittaker.html"><h3 style="font-family: candara;margin-left: 1300px;margin-bottom: -40px;color: white;">NEWS</h3></a>
+       				<a href="till.html"><h3 style="font-family: candara;margin-left: 1700px;color: white;">RANKINGS</h3></a>
+       </div>
+       <img src="FELDERRDA.jpg" alt="RDA DOMINANCE"style="width: 700px;height: 1000px;margin-left: 580px;margin-top: 100px;">
+        <h1 style="text-align: center;font-family: lucida bright;">THE MAIN EVENT WILL START AFTER 12 HOURS </h1>
+       <img src="fmfo.jpg" alt="blayd"style = "width: 450px;height: 600px;margin-left: 700px;margin-top: 100px;">
+         <h1 style="text-align: center;font-family: lucida bright;">THE EVENT WILL START AT 13th DECEMBER</h1>
+       <div class="copyright">
+
+  </div>
+    
+</body>
+<style>
+	.rectangle{
+	    background-color: black;
+		width: 1906px;
+		height:80px;
+		margin-left: -10px;
+		margin-top: -20px;
+	}
+	.copyright{
+		background-color: black;
+		width: 1906px;
+		height:300px;
+		margin-top: 3630px;
+		margin-left: -10px;
+	}
+</style>
+</html>
